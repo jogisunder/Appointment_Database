@@ -28,7 +28,5 @@ public class Service {
         return Name;
     }
 
-    public void setName(String name) {
-        Name = name;
-    }
+   
 }
